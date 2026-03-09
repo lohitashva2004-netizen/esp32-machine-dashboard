@@ -1,0 +1,4 @@
+dash
+plotly
+paho-mqtt
+gunicorn
