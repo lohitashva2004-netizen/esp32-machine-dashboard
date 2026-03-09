@@ -2,4 +2,6 @@ dash
 plotly
 paho-mqtt
 gunicorn 
-dash-bootstrap-components
+dash-bootstrap-components 
+pandas
+
